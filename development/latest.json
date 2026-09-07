@@ -1,6 +1,6 @@
 {
   "version": "0.1.1-dev.8",
-  "notes": "Callio development update 0.1.1-dev.8",
+  "notes": "- Refined neutral glass interaction system\n- Updated Generate, sliders, status badges and toggles\n- Unified lyric performance and vibe controls\n- Latest Callio engine integration",
   "pub_date": "2026-09-07T20:59:44Z",
   "platforms": {
     "windows-x86_64": {
