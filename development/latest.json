@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1-dev.7",
-  "notes": "Callio development update 0.1.1-dev.7",
-  "pub_date": "2026-09-07T18:06:19Z",
+  "version": "0.1.1-dev.8",
+  "notes": "Callio development update 0.1.1-dev.8",
+  "pub_date": "2026-09-07T20:59:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnRiZDhkeURVcEhXRlZZM0JiQnlWNUp4b2N3S2E2SC9QeEMzTlh0NU5tZUZFdGNtQUI2OWJ3SGRYdm9KM3FoSC90cEJGVk9oWlM4ditsdjlxME9LdUxSVEV5OWhySVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODA0MzUyCWZpbGU6Q2FsbGlvXzAuMS4xLWRldi43X3g2NC1zZXR1cC5leGUKMVhkL1RRMlIzdDRnU25kWlZUOTJGZEdYYWgxcHZ4eU9BMWdZSkZjUTZkZUdpcndiR3lIN2Iwb1Y1N1Eyc01zVk9VNi82RVd3MVRKazNKdFQzOE5FQmc9PQo=",
-      "url": "https://github.com/KorelisLabs/callio-releases/releases/download/dev-v0.1.1-dev.7/Callio_0.1.1-dev.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnRiZDhkeURVcEtTM2YvZkxoUDlHMUZKMDJNR1NMbGFIdGtVMkxUWmdQaFNvb2FEeDRLYTM3T1E1MVh5cmlWUE9ucWJIeHNmNlZOQ2ZnYWFWN0cyM09xcEhhUmZITXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODE0NzYzCWZpbGU6Q2FsbGlvXzAuMS4xLWRldi44X3g2NC1zZXR1cC5leGUKRzZPR1RjZUFSYnh6YTNKdTdXSWJLLzhoOWEydXhhbmVhR3FDV2xUbFl2NFN1bzhQZEV1S2Z0QVV5c0tlTlMvLzR3RUVFaVlsL0p0UFpkWUNpYTAxQWc9PQo=",
+      "url": "https://github.com/KorelisLabs/callio-releases/releases/download/dev-v0.1.1-dev.8/Callio_0.1.1-dev.8_x64-setup.exe"
     }
   }
 }
