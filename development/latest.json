@@ -1,6 +1,6 @@
 {
   "version": "0.1.1-dev.9",
-  "notes": "Callio development update 0.1.1-dev.9",
+  "notes": "- New Callio app icon across the taskbar, title bar and shortcuts\n- Metallic emblem replaces the placeholder icon from the project template",
   "pub_date": "2026-09-07T21:56:11Z",
   "platforms": {
     "windows-x86_64": {
