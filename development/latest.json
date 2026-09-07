@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1-dev.1",
-  "notes": "Development baseline that introduces the in-app updater.",
-  "pub_date": "2026-09-07T14:07:06Z",
+  "version": "0.1.1-dev.2",
+  "notes": "- First build delivered by the in-app updater\n- Persistent Generated Tracks history\n- Glossy Create workspace\n- Engine sidecar shuts down completely with Callio",
+  "pub_date": "2026-09-07T14:14:58Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnRiZDhkeURVcEZLTzcrTlRiT2RFYzJJNWwxVkZDWUlRelRsOGtIOFZKN1g3NkpiSUtYcFE5MWk3UmE4azhXRmp6aU4vSlR4YVJWR3ZELzJMSlN0VXowSGh2Y3UrQUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzg5MTMwCWZpbGU6Q2FsbGlvXzAuMS4xLWRldi4xX3g2NC1zZXR1cC5leGUKQWhUcjBUcVFRSjlNQjNaSXpTVFJPamppTlZIbHZwb1RMMUtxendlMDBaUS9velpFazdUZExCY0ZuRnBnNE1VSGhVTTE0MElZTjRNTG5JWUEyY01kQkE9PQo=",
-      "url": "https://github.com/KorelisLabs/callio-releases/releases/download/dev-v0.1.1-dev.1/Callio_0.1.1-dev.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnRiZDhkeURVcERUM1pxZmtnTnhOZXdxUGxqWnhGUGZzNGhlTmtGUzNZYU1mZzNEdmlpeGZPSTRvZU1xMGFmc3pDR2VBTFJyNHhzdkpLRXBKL1BicWc5T1VNbURVcVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzkwNDU1CWZpbGU6Q2FsbGlvXzAuMS4xLWRldi4yX3g2NC1zZXR1cC5leGUKaDVKS1A3YkVVQUg2YjBvUW45NFpVK1JxbE5reXZ0TUJHcXozc01kbU9uZGdaVWVCZmtrUUhnQmtobjRnV0ZFdjkxdVl2WEtWeFVGTmZXbGdJUEZ2Q1E9PQo=",
+      "url": "https://github.com/KorelisLabs/callio-releases/releases/download/dev-v0.1.1-dev.2/Callio_0.1.1-dev.2_x64-setup.exe"
     }
   }
 }
