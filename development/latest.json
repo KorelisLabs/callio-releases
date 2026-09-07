@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1-dev.5",
-  "notes": "- Ships a freshly built korelis-engine, proving the engine travels with the release\n- Delivered entirely by the in-app updater",
-  "pub_date": "2026-09-07T14:44:11Z",
+  "version": "0.1.1-dev.6",
+  "notes": "",
+  "pub_date": "2026-09-07T16:05:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnRiZDhkeURVcElPaUVZb04xMlpuSytNaWlQM1NqQUppTEJvNWI5aElscHRrWnc0M043bVRyaHR4S3JPU25HK0JGaVZrQmF5dTRqUGVranNvc1pnaW5jSWZCZWlZWndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzkyMjE5CWZpbGU6Q2FsbGlvXzAuMS4xLWRldi41X3g2NC1zZXR1cC5leGUKVUR2T0N5ZTZSMVdlVi81Ry9kcStDdGZxZGs4SWhPdHEzaldDcVcyNEtzbXdSU1RuNEhwV2hMVXlvenNBUXVEWUhzRlpQZ3JWZVg4Qy8yY29JeHNPQmc9PQo=",
-      "url": "https://github.com/KorelisLabs/callio-releases/releases/download/dev-v0.1.1-dev.5/Callio_0.1.1-dev.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnRiZDhkeURVcE83V0xHNFFWYWtaQ3hKYk5UOSszVmlBQWJ3VndxNkEwMzZ6aHJhaUZ3blo3dW81bDZTc3h5WUlZL0lTT1lZTFk1NXMxVnc4TStUa3hsRUtNUVNiTlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzk3MDgyCWZpbGU6Q2FsbGlvXzAuMS4xLWRldi42X3g2NC1zZXR1cC5leGUKYlIvZDBheU82Nm1ialJaZmJmYlZkem9UMHFIU2lzK09MYkUzbzFzNU9CRS84d2I2S0hDUzMvaStXaFlMb3NMd21CMFFYckxvakVTNFdlZ3FCbnhDQVE9PQo=",
+      "url": "https://github.com/KorelisLabs/callio-releases/releases/download/dev-v0.1.1-dev.6/Callio_0.1.1-dev.6_x64-setup.exe"
     }
   }
 }
