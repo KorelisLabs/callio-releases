@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1-dev.9",
-  "notes": "- New Callio app icon across the taskbar, title bar and shortcuts\n- Metallic emblem replaces the placeholder icon from the project template",
-  "pub_date": "2026-09-07T21:56:11Z",
+  "version": "0.1.1-dev.10",
+  "notes": "Callio 0.1.1-dev.10\r\n\r\n- Refined Settings with luxury glass controls and text-only navigation\r\n- Added durable local artist profile images and profile persistence\r\n- Added Calibration exit controls and safer cleanup behavior\r\n- Finalized neutral silver and champagne interaction styling across the desktop UI",
+  "pub_date": "2026-09-07T23:57:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnRiZDhkeURVcEVSeXU1Nk1hYkx3UkVudGpqa21UTU12Z1AzYzE0SGQ5YnVMeE1rRUgrNkd0SWQ5bTBTcFNMalpNT3B3bE40L1lidmNQSzRpcTl6U0hVK3lvc1I0SEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODE4MTUyCWZpbGU6Q2FsbGlvXzAuMS4xLWRldi45X3g2NC1zZXR1cC5leGUKRVpEeXkwdG0rTWhuNnVudG9SOUpTcEhoNmE4RVplb3lBajdVODZLc0V1RVlLb25OT3pKRTdUTVhleGRaNWkyREFVVjNoYllxYlJFeGFtL1UrV1l3Qmc9PQo=",
-      "url": "https://github.com/KorelisLabs/callio-releases/releases/download/dev-v0.1.1-dev.9/Callio_0.1.1-dev.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnRiZDhkeURVcEhJbHRRMzRQNStPam1tZ2FNK3Nqc045WGRncW92ZVBISGVXV1JTWlozOVkzbnp4SGVUL2VqczBldTJlcXYzR0xnN3dUNndOUVZDaHZJYk9nN0ZVcUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODI1NDIyCWZpbGU6Q2FsbGlvXzAuMS4xLWRldi4xMF94NjQtc2V0dXAuZXhlCklXZDJvS3lqWi9vSkI1MHRZTzNwQmhJYnVBVGtnM21jRVEyTDZmUFZOK3NRT1gzZ250cXhrR0wwaC9OVHUzU0FHbzNDcFpBRm0wSWp3Um9rME9XUkN3PT0K",
+      "url": "https://github.com/KorelisLabs/callio-releases/releases/download/dev-v0.1.1-dev.10/Callio_0.1.1-dev.10_x64-setup.exe"
     }
   }
 }
