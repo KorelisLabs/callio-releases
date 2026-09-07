@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1-dev.4",
-  "notes": "- Delivered by the in-app updater\n- Persistent Generated Tracks history\n- Glossy Create workspace\n- Engine sidecar shuts down completely before an update installs",
-  "pub_date": "2026-09-07T14:29:32Z",
+  "version": "0.1.1-dev.5",
+  "notes": "- Ships a freshly built korelis-engine, proving the engine travels with the release\n- Delivered entirely by the in-app updater",
+  "pub_date": "2026-09-07T14:44:11Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnRiZDhkeURVcE9VZngrT05weWVDOWdiWXE4Rjk4M0oxeWU1SUttMnF1TExuMzJ4ZnVVSDVWdXhlYytzWU5YWDh3SzNuL1ErMTFaVEp4QnJQNzRkSHRReUVwM3hhaGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzkxMzIwCWZpbGU6Q2FsbGlvXzAuMS4xLWRldi40X3g2NC1zZXR1cC5leGUKU1JWc2FoZitKYjg0MVViVnRKcnZjVnVra2tTKy9zeUErcUV5aDRpQTYvOTlvZ0hoWWlRdHlQQjNlV1NnNU5NUHpMaTIxUXBmTytpRSttNjhIOVg1RGc9PQo=",
-      "url": "https://github.com/KorelisLabs/callio-releases/releases/download/dev-v0.1.1-dev.4/Callio_0.1.1-dev.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnRiZDhkeURVcElPaUVZb04xMlpuSytNaWlQM1NqQUppTEJvNWI5aElscHRrWnc0M043bVRyaHR4S3JPU25HK0JGaVZrQmF5dTRqUGVranNvc1pnaW5jSWZCZWlZWndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzkyMjE5CWZpbGU6Q2FsbGlvXzAuMS4xLWRldi41X3g2NC1zZXR1cC5leGUKVUR2T0N5ZTZSMVdlVi81Ry9kcStDdGZxZGs4SWhPdHEzaldDcVcyNEtzbXdSU1RuNEhwV2hMVXlvenNBUXVEWUhzRlpQZ3JWZVg4Qy8yY29JeHNPQmc9PQo=",
+      "url": "https://github.com/KorelisLabs/callio-releases/releases/download/dev-v0.1.1-dev.5/Callio_0.1.1-dev.5_x64-setup.exe"
     }
   }
 }
