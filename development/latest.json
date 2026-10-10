@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1-dev.10",
-  "notes": "Callio 0.1.1-dev.10\r\n\r\n- Refined Settings with luxury glass controls and text-only navigation\r\n- Added durable local artist profile images and profile persistence\r\n- Added Calibration exit controls and safer cleanup behavior\r\n- Finalized neutral silver and champagne interaction styling across the desktop UI",
-  "pub_date": "2026-09-07T23:57:19Z",
+  "version": "0.1.1-dev.11",
+  "notes": "Callio 0.1.1-dev.11\r\n\r\nDevelopment build.",
+  "pub_date": "2026-10-10T21:41:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnRiZDhkeURVcEhJbHRRMzRQNStPam1tZ2FNK3Nqc045WGRncW92ZVBISGVXV1JTWlozOVkzbnp4SGVUL2VqczBldTJlcXYzR0xnN3dUNndOUVZDaHZJYk9nN0ZVcUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODI1NDIyCWZpbGU6Q2FsbGlvXzAuMS4xLWRldi4xMF94NjQtc2V0dXAuZXhlCklXZDJvS3lqWi9vSkI1MHRZTzNwQmhJYnVBVGtnM21jRVEyTDZmUFZOK3NRT1gzZ250cXhrR0wwaC9OVHUzU0FHbzNDcFpBRm0wSWp3Um9rME9XUkN3PT0K",
-      "url": "https://github.com/KorelisLabs/callio-releases/releases/download/dev-v0.1.1-dev.10/Callio_0.1.1-dev.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnRiZDhkeURVcEk0QTMxMzlEY3NsVnpsOWRCQlhEUEExNTI3Tm5wN3dzb051ZnBGUWZkODhDOFd5TDRDLzM5NnpjaWcyTWN3czNUUmpGNmVSZncyd1paZzZQMS9jeUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjY4NDYyCWZpbGU6Q2FsbGlvXzAuMS4xLWRldi4xMV94NjQtc2V0dXAuZXhlCmNxNVFpSVR6dVRyM1ZKdlNGQ1ZXTlhOWkczWW41TVlxZ21FN1V6eUZOS2RRVHBPUURWY0EzY0FQSzhudzVWRzB6RVJ2cUtOQ1QzSUc5blhZdHFRYUNBPT0K",
+      "url": "https://github.com/KorelisLabs/callio-releases/releases/download/dev-v0.1.1-dev.11/Callio_0.1.1-dev.11_x64-setup.exe"
     }
   }
 }
